@@ -29,7 +29,9 @@ public class CreatePersons {
 
             people[i] = person;
         }
-
+        
+        
+        //Output the list of Persons to std out
         System.out.println("Person creation complete!");
         System.out.println("Displaying information for the created people:");
 
